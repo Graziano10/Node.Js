@@ -1,0 +1,25 @@
+{
+  "name": "qw",
+  "version": "1.0.0",
+  "description": "Created this repository for TypeScript exercises.",
+  "main": "exercise13.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Graziano10/Node.Js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Graziano10/Node.Js/issues"
+  },
+  "homepage": "https://github.com/Graziano10/Node.Js#readme",
+  "dependencies": {
+    "node-modules": "^1.0.1",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "pg-promise": "^11.5.0"
+  }
+}
